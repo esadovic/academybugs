@@ -1,7 +1,9 @@
 Bug report 
 
 Summary: Contact Us - Form with all required fields is not sent and user is redirected to the blank page.
+
 Contact Us - Form with all required fields is not sent and no request is send
+
 Contact Us - Request is not sent and user is redirected to the blank page after click on Send
 
 Description:
