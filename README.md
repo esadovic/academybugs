@@ -16,7 +16,7 @@ Steps to reproduce:
 5.	Enter some value in subject and message fields
 6.	Click “Send“ button
    
-Actual result: After click on Send button user is redirected to the blank page and there is no post request in the console. Contact form is not sent; User redirected to the blank page.
+Actual result: After click on Send button user is redirected to the blank page and there is no post request in the console. Contact form is not sent: User redirected to the blank page.
 
 Expected result: Request is sent. User is redirected to the home page and succes message is visible at the top of the page: “Thank you for your contact form. We will contact you as soon as possible.”
 
